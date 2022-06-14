@@ -50,6 +50,15 @@ li:first-letter {
   left: 10px;
   bottom: 11px;
 }
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
 
 .open-source {
   text-decoration: none;
