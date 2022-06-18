@@ -80,3 +80,14 @@ li:first-letter {
 .weather-forecast-temperature-min {
   opacity: 0.6;
 }
+
+#search-button {
+  background-color: #233142;
+  border-color: #233142;
+}
+
+#search-button-current {
+  font-size: 13px;
+  background-color: #233142;
+  border-color: #233142;
+}
